@@ -1,0 +1,6 @@
+/build/
+/docs/html/
+/calculator
+/lib/
+*.o
+*.so
